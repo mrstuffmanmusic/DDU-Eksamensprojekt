@@ -378,7 +378,7 @@ boolean collison (int playerX,int playerY,int playerWidth,int playerHeight ){
 
   void update() {
 
-    fill(0, 0, 255);
+    fill(255, 0, 0);
     rect(x, y, w, h);
 
     rect(x, y, w, h);
